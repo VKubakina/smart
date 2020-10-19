@@ -347,7 +347,7 @@ main{
     background-position: -126px 0;
 }
 
-.social-item:nth-child() {
+.social-item:nth-child(5) {
     background-position: -168px 0;
 }
 
